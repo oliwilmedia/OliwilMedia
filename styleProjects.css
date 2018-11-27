@@ -1,0 +1,53 @@
+body{
+    font-family: sans-serif;
+    background: black;
+    color: white;
+}
+
+#project_title{
+    font-size: 25px;
+    margin: 80px auto 0px auto;
+    text-align: center;
+}
+
+.Container{
+    width: 70%;
+    margin: 0 auto;
+}
+
+#Kraftpowercon{
+    float: left;
+}
+
+#RollsEvent{
+    float: right;
+}
+
+#VolvoXC90{
+    float: left;
+}
+
+#RAM2019{
+    float: right;
+}
+
+#ReturnContainer{
+    margin: 0 auto;
+    text-align: center;
+}
+
+button{
+    cursor:pointer;
+    margin-top: 60px;
+    padding: 5px 10px 5px 10px;
+    background: black;
+    color: white;
+    border: 4px solid white;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+}
